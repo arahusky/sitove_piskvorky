@@ -1,0 +1,14 @@
+petr:a:1:1:0
+petr:jakub:0:1:0
+b:a:1:8:0
+no:jakub:0:1:0
+a:petr:1:1:0
+a:b:8:1:0
+a:jakub:2:1:0
+aja:jakub:2:4:0
+aja:filip:0:1:0
+jakub:petr:1:0:0
+jakub:no:1:0:0
+jakub:a:1:2:0
+jakub:aja:4:2:0
+filip:aja:1:0:0
